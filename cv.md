@@ -36,3 +36,8 @@ return newArr;
 ## Education
 **Belarusian State Technological University**
 _Department of Information Systems and Technologies_ 2006-2011
+## Language
+- Russian - Native
+- Belarusian - Intermediate
+- Polish - B1
+- English - A2
