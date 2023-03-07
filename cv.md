@@ -19,3 +19,20 @@ Currently, I’m expanding my knowledge as a front-end developer.
 - Git
 - Figma
 - JS
+
+## Code Example
+```
+function dataReverse(data) {
+  let newArr = [];
+  let long = data.length/8;
+  
+  for (let i=0; i < long; i++) {
+   newArr.push(...data.splice(-8));
+  }
+
+return newArr;
+}
+```
+## Education
+**Belarusian State Technological University**
+_Department of Information Systems and Technologies_ 2006-2011
